@@ -13,11 +13,10 @@ Utilize DROP TABLE to permanently remove a table from the database.
 __________________________________________________________________________________________________
 ## Instructions (Read and follow instructions)
 
-1. Download 5Week_movies.sql file/database from this repo.
-2. Open MySQL WorkBench or any SQL Management Tool and Import the file/database 
-3. Write SQL scripts to answer all questions below. 
-4. Save, Export and rename the file to solution.sql Click to play : (https://www.youtube.com/watch?v=fX4-YiXxTn0 )
-5. Add file solution.sql to the same repo.
+1. Open MySQL WorkBench or any SQL Management Tool and Import the file/database 
+2. Write SQL scripts to answer all questions below. 
+3. Save, Export and rename the file to solution.sql Click to play : (https://www.youtube.com/watch?v=fX4-YiXxTn0 )
+4. Add file solution.sql to the same repo.
 __________________________________________________________________________________________________
 
 Imagine you're building a database to manage a music collection. We'll create a table to store information about songs, then modify it, and finally remove it when it's no longer needed.
