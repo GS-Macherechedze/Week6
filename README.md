@@ -1,4 +1,4 @@
-# Week 6 Assignment: CREATE, ALTER & DROP TABLE
+# Revision Week 6 Assignment: CREATE, ALTER & DROP TABLE
 
 This week, we'll establish a foundation for working with databases by creating, modifying, and removing tables using SQL. We'll focus on the music collection scenario to practice these essential skills.
 
